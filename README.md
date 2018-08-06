@@ -1,3 +1,9 @@
+This autocomplete search is able to:
+1. Autosuggest institutions
+2. Navigate suggested institutions with up and down arrows
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
